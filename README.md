@@ -40,7 +40,7 @@ pip install PyQt6
 3. **运行程序**：
 
 ```bash
-    python your_script_name.py
+    python main.py
     ```
 
 ---
